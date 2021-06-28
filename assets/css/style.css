@@ -119,7 +119,7 @@ img{
 
 .content-wrap.c-height{
     /* height: calc(1400pt - 51px); */
-    height: calc(1400pt - 100px);
+    height: calc(1400pt - 51px);
 }
 
 .content-left{
@@ -229,7 +229,7 @@ img{
     margin: 0;
     font-family: "PlantinMTPro-Regular";
     font-weight: normal;
-    font-size: 60px;
+    font-size: 56px;
     /* font-size: 48px; */
 }
 
@@ -631,7 +631,7 @@ img{
 .border-r,
 .border-l {
     position: relative;
-    padding: 0px 12px;
+    padding: 0px 7px;
     /* padding:; */
 }
 .border-l:after,
@@ -685,7 +685,7 @@ img{
     min-height: 285px;
 }
 .day-height-3 .day-content-map-heading {
-    min-height: 370px;
+    min-height: 310px;
 }
 .day-content-map img {
     width: 100%;
@@ -749,7 +749,7 @@ img{
     margin: 0;
     font-family: 'PlantinMTPro-Regular';
     font-weight: normal;
-    font-size: 30px;
+    font-size: 28px;
     /* font-size: 25px; */
 }
 
